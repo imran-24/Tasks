@@ -10,7 +10,7 @@
 
 <table>
     <tr>
-        <th>v PC\User &gt;</th>
+        <th>PC\User &gt;</th>
         <th>Rock</th>
         <th>Paper</th>
         <th>3rd move</th>
